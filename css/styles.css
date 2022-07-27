@@ -5,9 +5,7 @@ body{
 
 .near_nav{
   background-color: #cd7700;
-  margin: 0;
-  /* width: auto;
-  height: auto; */
+  margin: 0 0 3rem;
   padding: 0.5rem 0;
 }
 .logo_container{
@@ -43,21 +41,24 @@ body{
   font-weight: 400;
   font-size: 1.3rem;
   line-height: 2;
+  padding: 0 10%;
 }
 #footer{
-  /* position: absolute;
-  bottom: 0; */
   width: 100%;
   height: auto;
-  margin: 0;
+  margin: 3rem 0 0;
   padding: 0.3rem 0 0.6rem;
   text-align: center;
   background-color: #4d3227;
 }
-.anchor{
-  margin: 1rem 5%;
+#footer h2 :hover{
+  color: #596164;
+}
+.anchor .fa-brands{
+  font-size: 1.5rem;
+  margin: 1rem 5% 1rem;
   color: #D0D3D4;
 }
 .anchor :hover{
-  color: red;
+  color:  #AE1E1E;
 }
