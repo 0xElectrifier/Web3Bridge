@@ -78,3 +78,19 @@ body {
   position: ;
   bottom: 0;
 }
+
+/**Beginning of Thank you file*/
+
+.thank-you {
+  text-align: center;
+}
+.selected {
+  background-color: hsl(215, 15%, 22%);
+  height: 2.5rem;
+  width: 100%;
+}
+.selected p {
+  color: hsl(25, 97%, 53%);
+  margin: 0 margin;
+}
+.
